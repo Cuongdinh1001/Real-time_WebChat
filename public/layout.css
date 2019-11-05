@@ -1,0 +1,19 @@
+body{background-color: rgb(255, 180, 255)}
+#wrapper{width: 600px; margin:auto}
+
+#txtUsername{background-color: white; border:solid 1px black}
+
+#leftCF, #rightCF {min-height: 300px}
+#leftCF{width: 30%; float: left; background-color: rgb(46, 110, 230)}
+#rightCF{width: 70%; float: right; background-color: rgb(237, 171, 241)}
+
+#boxRoomTitle{border: solid 1px black;background-color: rgb(194, 55, 55); padding: 5px; text-align: center}
+#boxListRoom{border: solid 1px black;background-color: rgb(248, 68, 68); padding: 5px; text-align: left; min-height: 300px}
+
+#boxTitle{border: solid 1px black; padding: 5px; text-align: center}
+#boxContent{border: solid 1px black; border-top: none; padding: 5px; text-align: center; font-weight: bold}
+
+#yourRoom {text-align: right}
+#yourName{text-align: right}
+#listMessages{height: 280px; background-color: violet; margin-bottom: 15px}
+#txtMessage{border: solid 1px black}
