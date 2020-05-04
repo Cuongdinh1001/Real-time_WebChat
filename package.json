@@ -2,18 +2,10 @@
   "name": "demo_chat",
   "version": "1.0.0",
   "description": "Chat for fun",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node server.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": ""
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Cuong Dinh",
-  "license": "ISC",
-  "bugs": {
-    "url": ""
-  },
-  "homepage": ""
+  "license": "ISC"
 }
