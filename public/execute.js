@@ -1,4 +1,4 @@
-var socket = io("http://localhost:3000");
+var socket = io("https://cuongdinh.herokuapp.com");
 $(document).ready(function(){
     $("#loginForm").show();
     $("#createRoom").hide();
